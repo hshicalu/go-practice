@@ -1,1 +1,1 @@
-# go-practice
+# golang学習メモ
