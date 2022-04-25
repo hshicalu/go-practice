@@ -1,1 +1,1 @@
-# golang学習メモ
+# golangの学習
