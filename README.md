@@ -1,1 +1,1 @@
-# golangの学習
+## Practice golang on A Tour of Go
