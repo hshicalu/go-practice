@@ -1,3 +1,4 @@
+// Check "for" behavior
 package main
 
 import "fmt"
