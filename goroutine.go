@@ -21,5 +21,5 @@ func main() {
 	fmt.Println("what is today's lucky num?")
 	go getLuckyNum()
 
-	time.Sleep(time.Second * 5)
+	// time.Sleep(time.Second * 5)
 }
